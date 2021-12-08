@@ -5,6 +5,12 @@ repo: upptime # The name of this repository
 sites:
   - name: Blog
     url: https://blog.whywrite.it/
+  - name: Mastodon
+    url: https://mstdn.uec.tokyo/about
+  - name: Mastodon assets
+    url: https://assets.mstdn.uec.tokyo/mastodon/accounts/avatars/000/000/002/original/7c1c520de04c6952.png
+  - name: shokujinj API
+    url: https://api.shokujin.jp/
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
