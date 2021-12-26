@@ -4,11 +4,11 @@
     "url": "https://blog.whywrite.it/",
     "icon": "https://favicons.githubusercontent.com/blog.whywrite.it",
     "slug": "blog",
-    "status": "up",
+    "status": "down",
     "uptime": "99.82%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.78%",
+    "uptimeWeek": "99.97%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "99.82%",
     "time": 1371,
     "timeDay": 978,
@@ -16,6 +16,7 @@
     "timeMonth": 1415,
     "timeYear": 1371,
     "dailyMinutesDown": {
+      "2021-12-26": 3,
       "2021-08-12": 81,
       "2021-08-07": 32,
       "2021-08-02": 421,
@@ -28,18 +29,20 @@
     "url": "https://mstdn.uec.tokyo/about",
     "icon": "https://favicons.githubusercontent.com/mstdn.uec.tokyo",
     "slug": "mastodon",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "99.99%",
+    "uptimeDay": "99.89%",
+    "uptimeWeek": "99.98%",
+    "uptimeMonth": "99.99%",
+    "uptimeYear": "99.99%",
     "time": 922,
     "timeDay": 646,
     "timeWeek": 852,
     "timeMonth": 922,
     "timeYear": 922,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-12-26": 2
+    }
   },
   {
     "name": "Mastodon assets",
@@ -64,7 +67,7 @@
     "url": "https://api.shokujin.jp/",
     "icon": "https://favicons.githubusercontent.com/api.shokujin.jp",
     "slug": "shokujinj-api",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -75,6 +78,8 @@
     "timeWeek": 747,
     "timeMonth": 740,
     "timeYear": 740,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-12-26": 0
+    }
   }
 ]
