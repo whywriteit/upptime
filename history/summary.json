@@ -48,7 +48,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/assets.mstdn.uec.tokyo.ico",
     "slug": "mastodon-assets",
     "status": "up",
-    "uptime": "87.43%",
+    "uptime": "87.44%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
@@ -130,9 +130,9 @@
     "url": "https://api.shokujin.jp/",
     "icon": "https://icons.duckduckgo.com/ip3/api.shokujin.jp.ico",
     "slug": "shokujinj-api",
-    "status": "up",
+    "status": "down",
     "uptime": "99.91%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -142,6 +142,7 @@
     "timeMonth": 745,
     "timeYear": 736,
     "dailyMinutesDown": {
+      "2023-04-20": 0,
       "2022-05-06": 20
     }
   }
