@@ -26,9 +26,9 @@
     "url": "https://mstdn.uec.tokyo/about",
     "icon": "https://icons.duckduckgo.com/ip3/mstdn.uec.tokyo.ico",
     "slug": "mastodon",
-    "status": "up",
+    "status": "down",
     "uptime": "99.92%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -37,7 +37,9 @@
     "timeWeek": 857,
     "timeMonth": 786,
     "timeYear": 895,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-07-26": 0
+    }
   },
   {
     "name": "Mastodon assets",
@@ -45,7 +47,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/assets.mstdn.uec.tokyo.ico",
     "slug": "mastodon-assets",
     "status": "down",
-    "uptime": "75.69%",
+    "uptime": "75.63%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
@@ -56,7 +58,7 @@
     "timeMonth": 0,
     "timeYear": 830,
     "dailyMinutesDown": {
-      "2023-07-26": 42,
+      "2023-07-26": 675,
       "2023-07-25": 1440,
       "2023-07-24": 1440,
       "2023-07-23": 1440,
