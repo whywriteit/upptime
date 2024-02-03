@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.85%",
-    "time": 1210,
-    "timeDay": 1580,
-    "timeWeek": 1265,
-    "timeMonth": 1107,
-    "timeYear": 1146,
+    "time": 1209,
+    "timeDay": 1013,
+    "timeWeek": 1315,
+    "timeMonth": 1115,
+    "timeYear": 1143,
     "dailyMinutesDown": {
       "2023-09-08": 805
     }
@@ -30,10 +30,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 892,
-    "timeDay": 928,
-    "timeWeek": 785,
-    "timeMonth": 855,
+    "time": 891,
+    "timeDay": 872,
+    "timeWeek": 798,
+    "timeMonth": 861,
     "timeYear": 841,
     "dailyMinutesDown": {}
   },
@@ -43,15 +43,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/assets.mstdn.uec.tokyo.ico",
     "slug": "mastodon-assets",
     "status": "up",
-    "uptime": "75.40%",
+    "uptime": "75.43%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "64.00%",
-    "time": 842,
-    "timeDay": 828,
-    "timeWeek": 869,
-    "timeMonth": 967,
+    "time": 843,
+    "timeDay": 946,
+    "timeWeek": 904,
+    "timeMonth": 981,
     "timeYear": 837,
     "dailyMinutesDown": {
       "2023-12-11": 956,
@@ -186,8 +186,7 @@
       "2023-05-07": 1440,
       "2023-05-06": 1440,
       "2023-05-05": 1355,
-      "2023-02-04": 121,
-      "2023-02-03": 980
+      "2023-02-04": 121
     }
   },
   {
@@ -201,11 +200,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 734,
-    "timeDay": 822,
-    "timeWeek": 681,
-    "timeMonth": 722,
-    "timeYear": 722,
+    "time": 736,
+    "timeDay": 1488,
+    "timeWeek": 813,
+    "timeMonth": 752,
+    "timeYear": 724,
     "dailyMinutesDown": {}
   }
 ]
