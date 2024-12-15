@@ -1,7 +1,7 @@
 url: https://api.shokujin.jp/
-status: up
-code: 200
-responseTime: 747
-lastUpdated: 2024-12-14T23:09:46.304Z
+status: down
+code: 502
+responseTime: 617
+lastUpdated: 2024-12-15T07:37:23.937Z
 startTime: 2021-12-08T16:25:37.000Z
 generator: Upptime <https://github.com/upptime/upptime>
