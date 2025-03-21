@@ -1,7 +1,7 @@
 url: https://mstdn.uec.tokyo/about
-status: up
-code: 200
-responseTime: 707
-lastUpdated: 2025-03-20T23:10:24.848Z
+status: down
+code: 502
+responseTime: 9929
+lastUpdated: 2025-03-21T14:33:09.641Z
 startTime: 2021-12-08T16:25:34.000Z
 generator: Upptime <https://github.com/upptime/upptime>
