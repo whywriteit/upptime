@@ -9,11 +9,11 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "95.02%",
+    "uptimeYear": "95.21%",
     "time": 1110,
-    "timeDay": 2118,
-    "timeWeek": 1577,
-    "timeMonth": 1321,
+    "timeDay": 1046,
+    "timeWeek": 1326,
+    "timeMonth": 1326,
     "timeYear": 1112,
     "dailyMinutesDown": {
       "2025-11-06": 34,
@@ -39,8 +39,7 @@
       "2024-12-20": 1440,
       "2024-12-19": 1440,
       "2024-12-18": 1440,
-      "2024-12-17": 1440,
-      "2024-12-16": 1440
+      "2024-12-17": 1440
     }
   },
   {
@@ -53,12 +52,12 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "95.42%",
-    "time": 910,
-    "timeDay": 1020,
-    "timeWeek": 937,
-    "timeMonth": 914,
-    "timeYear": 937,
+    "uptimeYear": "95.62%",
+    "time": 909,
+    "timeDay": 784,
+    "timeWeek": 899,
+    "timeMonth": 908,
+    "timeYear": 938,
     "dailyMinutesDown": {
       "2025-11-06": 34,
       "2025-10-04": 39,
@@ -83,8 +82,7 @@
       "2024-12-20": 1440,
       "2024-12-19": 1440,
       "2024-12-18": 1440,
-      "2024-12-17": 1440,
-      "2024-12-16": 1440
+      "2024-12-17": 1440
     }
   },
   {
@@ -93,16 +91,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/assets.mstdn.uec.tokyo.ico",
     "slug": "mastodon-assets",
     "status": "up",
-    "uptime": "81.78%",
+    "uptime": "81.80%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "87.03%",
-    "time": 847,
-    "timeDay": 1100,
-    "timeWeek": 887,
-    "timeMonth": 858,
-    "timeYear": 857,
+    "time": 846,
+    "timeDay": 703,
+    "timeWeek": 861,
+    "timeMonth": 854,
+    "timeYear": 856,
     "dailyMinutesDown": {
       "2025-11-14": 784,
       "2025-11-13": 1440,
@@ -166,12 +164,12 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "96.13%",
+    "uptimeYear": "96.32%",
     "time": 807,
-    "timeDay": 784,
-    "timeWeek": 805,
-    "timeMonth": 826,
-    "timeYear": 816,
+    "timeDay": 654,
+    "timeWeek": 787,
+    "timeMonth": 823,
+    "timeYear": 817,
     "dailyMinutesDown": {
       "2025-11-06": 34,
       "2025-10-04": 38,
@@ -194,8 +192,7 @@
       "2024-12-20": 1440,
       "2024-12-19": 1440,
       "2024-12-18": 1440,
-      "2024-12-17": 1440,
-      "2024-12-16": 1440
+      "2024-12-17": 1440
     }
   }
 ]
