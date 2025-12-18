@@ -9,11 +9,11 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "95.49%",
+    "uptimeYear": "95.76%",
     "time": 1111,
-    "timeDay": 1690,
-    "timeWeek": 1439,
-    "timeMonth": 1340,
+    "timeDay": 1057,
+    "timeWeek": 1375,
+    "timeMonth": 1342,
     "timeYear": 1113,
     "dailyMinutesDown": {
       "2025-11-06": 34,
@@ -37,8 +37,7 @@
       "2024-12-22": 1440,
       "2024-12-21": 1440,
       "2024-12-20": 1440,
-      "2024-12-19": 1440,
-      "2024-12-18": 1440
+      "2024-12-19": 1440
     }
   },
   {
@@ -51,11 +50,11 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "95.89%",
+    "uptimeYear": "96.16%",
     "time": 909,
-    "timeDay": 942,
-    "timeWeek": 898,
-    "timeMonth": 907,
+    "timeDay": 994,
+    "timeWeek": 925,
+    "timeMonth": 913,
     "timeYear": 938,
     "dailyMinutesDown": {
       "2025-11-06": 34,
@@ -79,8 +78,7 @@
       "2024-12-22": 1440,
       "2024-12-21": 1440,
       "2024-12-20": 1440,
-      "2024-12-19": 1440,
-      "2024-12-18": 1440
+      "2024-12-19": 1440
     }
   },
   {
@@ -89,15 +87,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/assets.mstdn.uec.tokyo.ico",
     "slug": "mastodon-assets",
     "status": "up",
-    "uptime": "81.81%",
+    "uptime": "81.82%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "87.03%",
-    "time": 846,
-    "timeDay": 866,
-    "timeWeek": 856,
-    "timeMonth": 851,
+    "time": 847,
+    "timeDay": 940,
+    "timeWeek": 863,
+    "timeMonth": 856,
     "timeYear": 856,
     "dailyMinutesDown": {
       "2025-11-14": 784,
@@ -162,11 +160,11 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "96.59%",
+    "uptimeYear": "96.87%",
     "time": 806,
-    "timeDay": 882,
-    "timeWeek": 822,
-    "timeMonth": 827,
+    "timeDay": 1001,
+    "timeWeek": 869,
+    "timeMonth": 831,
     "timeYear": 817,
     "dailyMinutesDown": {
       "2025-11-06": 34,
@@ -188,8 +186,7 @@
       "2024-12-22": 1440,
       "2024-12-21": 1440,
       "2024-12-20": 1440,
-      "2024-12-19": 1440,
-      "2024-12-18": 1440
+      "2024-12-19": 1440
     }
   }
 ]
