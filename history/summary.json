@@ -9,11 +9,11 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "96.31%",
-    "time": 1109,
-    "timeDay": 866,
-    "timeWeek": 1340,
-    "timeMonth": 1335,
+    "uptimeYear": "96.58%",
+    "time": 1110,
+    "timeDay": 913,
+    "timeWeek": 1246,
+    "timeMonth": 1294,
     "timeYear": 1112,
     "dailyMinutesDown": {
       "2025-11-06": 34,
@@ -34,8 +34,7 @@
       "2024-12-25": 538,
       "2024-12-24": 1440,
       "2024-12-23": 1440,
-      "2024-12-22": 1440,
-      "2024-12-21": 1440
+      "2024-12-22": 1440
     }
   },
   {
@@ -48,11 +47,11 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "96.71%",
-    "time": 909,
-    "timeDay": 907,
-    "timeWeek": 952,
-    "timeMonth": 919,
+    "uptimeYear": "96.99%",
+    "time": 910,
+    "timeDay": 860,
+    "timeWeek": 928,
+    "timeMonth": 914,
     "timeYear": 938,
     "dailyMinutesDown": {
       "2025-11-06": 34,
@@ -73,8 +72,7 @@
       "2024-12-25": 538,
       "2024-12-24": 1440,
       "2024-12-23": 1440,
-      "2024-12-22": 1440,
-      "2024-12-21": 1440
+      "2024-12-22": 1440
     }
   },
   {
@@ -83,15 +81,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/assets.mstdn.uec.tokyo.ico",
     "slug": "mastodon-assets",
     "status": "up",
-    "uptime": "81.84%",
+    "uptime": "81.86%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "87.03%",
     "time": 847,
-    "timeDay": 885,
-    "timeWeek": 890,
-    "timeMonth": 859,
+    "timeDay": 824,
+    "timeWeek": 883,
+    "timeMonth": 855,
     "timeYear": 856,
     "dailyMinutesDown": {
       "2025-11-14": 784,
@@ -156,11 +154,11 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "97.41%",
+    "uptimeYear": "97.69%",
     "time": 806,
-    "timeDay": 613,
-    "timeWeek": 810,
-    "timeMonth": 832,
+    "timeDay": 789,
+    "timeWeek": 805,
+    "timeMonth": 833,
     "timeYear": 817,
     "dailyMinutesDown": {
       "2025-11-06": 34,
@@ -179,8 +177,7 @@
       "2024-12-25": 538,
       "2024-12-24": 1440,
       "2024-12-23": 1440,
-      "2024-12-22": 1440,
-      "2024-12-21": 1440
+      "2024-12-22": 1440
     }
   }
 ]
