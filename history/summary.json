@@ -9,12 +9,12 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "97.78%",
+    "uptimeYear": "97.88%",
     "time": 1116,
-    "timeDay": 1277,
-    "timeWeek": 1227,
-    "timeMonth": 1163,
-    "timeYear": 1126,
+    "timeDay": 1143,
+    "timeWeek": 1173,
+    "timeMonth": 1165,
+    "timeYear": 1129,
     "dailyMinutesDown": {
       "2026-01-26": 29,
       "2025-11-06": 34,
@@ -27,8 +27,7 @@
       "2025-03-20": 1440,
       "2025-03-19": 1440,
       "2025-03-18": 1440,
-      "2025-03-17": 1440,
-      "2025-03-16": 1440
+      "2025-03-17": 1440
     }
   },
   {
@@ -41,12 +40,12 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "98.18%",
-    "time": 927,
-    "timeDay": 758,
-    "timeWeek": 905,
-    "timeMonth": 910,
-    "timeYear": 947,
+    "uptimeYear": "98.28%",
+    "time": 928,
+    "timeDay": 882,
+    "timeWeek": 888,
+    "timeMonth": 909,
+    "timeYear": 948,
     "dailyMinutesDown": {
       "2026-01-26": 29,
       "2025-11-06": 34,
@@ -59,8 +58,7 @@
       "2025-03-20": 51,
       "2025-03-19": 1440,
       "2025-03-18": 1440,
-      "2025-03-17": 1440,
-      "2025-03-16": 1440
+      "2025-03-17": 1440
     }
   },
   {
@@ -69,18 +67,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/assets.mstdn.uec.tokyo.ico",
     "slug": "mastodon-assets",
     "status": "down",
-    "uptime": "80.87%",
+    "uptime": "80.82%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "7.96%",
-    "uptimeYear": "78.66%",
+    "uptimeYear": "78.38%",
     "time": 855,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 858,
     "dailyMinutesDown": {
-      "2026-03-15": 85,
+      "2026-03-16": 85,
+      "2026-03-15": 1440,
       "2026-03-14": 1440,
       "2026-03-13": 1440,
       "2026-03-12": 1440,
@@ -175,10 +174,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "98.89%",
-    "time": 817,
-    "timeDay": 896,
-    "timeWeek": 793,
-    "timeMonth": 819,
+    "time": 816,
+    "timeDay": 592,
+    "timeWeek": 768,
+    "timeMonth": 813,
     "timeYear": 832,
     "dailyMinutesDown": {
       "2025-11-06": 34,
@@ -190,8 +189,7 @@
       "2025-03-20": 51,
       "2025-03-19": 1440,
       "2025-03-18": 1440,
-      "2025-03-17": 1440,
-      "2025-03-16": 672
+      "2025-03-17": 1440
     }
   }
 ]
