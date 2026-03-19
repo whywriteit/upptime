@@ -9,12 +9,12 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "98.43%",
-    "time": 1116,
-    "timeDay": 1148,
-    "timeWeek": 1180,
-    "timeMonth": 1158,
-    "timeYear": 1130,
+    "uptimeYear": "98.70%",
+    "time": 1115,
+    "timeDay": 995,
+    "timeWeek": 1148,
+    "timeMonth": 1154,
+    "timeYear": 1129,
     "dailyMinutesDown": {
       "2026-01-26": 29,
       "2025-11-06": 34,
@@ -24,8 +24,7 @@
       "2025-03-23": 1440,
       "2025-03-22": 658,
       "2025-03-21": 1017,
-      "2025-03-20": 1440,
-      "2025-03-19": 1440
+      "2025-03-20": 1440
     }
   },
   {
@@ -38,11 +37,11 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "98.83%",
+    "uptimeYear": "99.10%",
     "time": 928,
-    "timeDay": 1081,
-    "timeWeek": 915,
-    "timeMonth": 908,
+    "timeDay": 982,
+    "timeWeek": 921,
+    "timeMonth": 913,
     "timeYear": 948,
     "dailyMinutesDown": {
       "2026-01-26": 29,
@@ -53,8 +52,7 @@
       "2025-03-23": 1440,
       "2025-03-22": 656,
       "2025-03-21": 305,
-      "2025-03-20": 51,
-      "2025-03-19": 1440
+      "2025-03-20": 51
     }
   },
   {
@@ -63,15 +61,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/assets.mstdn.uec.tokyo.ico",
     "slug": "mastodon-assets",
     "status": "up",
-    "uptime": "80.76%",
-    "uptimeDay": "65.77%",
-    "uptimeWeek": "9.40%",
-    "uptimeMonth": "10.12%",
+    "uptime": "80.77%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "23.68%",
+    "uptimeMonth": "13.40%",
     "uptimeYear": "78.02%",
-    "time": 856,
-    "timeDay": 919,
-    "timeWeek": 919,
-    "timeMonth": 919,
+    "time": 855,
+    "timeDay": 750,
+    "timeWeek": 862,
+    "timeMonth": 862,
     "timeYear": 859,
     "dailyMinutesDown": {
       "2026-03-17": 573,
@@ -170,12 +168,12 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.30%",
+    "uptimeYear": "99.58%",
     "time": 817,
-    "timeDay": 884,
-    "timeWeek": 772,
-    "timeMonth": 804,
-    "timeYear": 832,
+    "timeDay": 711,
+    "timeWeek": 771,
+    "timeMonth": 792,
+    "timeYear": 831,
     "dailyMinutesDown": {
       "2025-11-06": 34,
       "2025-10-04": 38,
@@ -183,8 +181,7 @@
       "2025-03-24": 82,
       "2025-03-23": 232,
       "2025-03-22": 389,
-      "2025-03-20": 51,
-      "2025-03-19": 1440
+      "2025-03-20": 51
     }
   }
 ]
