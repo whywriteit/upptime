@@ -9,12 +9,12 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "98.97%",
-    "time": 1114,
-    "timeDay": 1205,
-    "timeWeek": 1170,
+    "uptimeYear": "99.25%",
+    "time": 1113,
+    "timeDay": 978,
+    "timeWeek": 1148,
     "timeMonth": 1157,
-    "timeYear": 1129,
+    "timeYear": 1131,
     "dailyMinutesDown": {
       "2026-01-26": 29,
       "2025-11-06": 34,
@@ -22,8 +22,7 @@
       "2025-08-06": 42,
       "2025-03-24": 777,
       "2025-03-23": 1440,
-      "2025-03-22": 658,
-      "2025-03-21": 1017
+      "2025-03-22": 658
     }
   },
   {
@@ -38,9 +37,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.37%",
     "time": 928,
-    "timeDay": 882,
-    "timeWeek": 898,
-    "timeMonth": 911,
+    "timeDay": 707,
+    "timeWeek": 877,
+    "timeMonth": 901,
     "timeYear": 948,
     "dailyMinutesDown": {
       "2026-01-26": 29,
@@ -49,8 +48,7 @@
       "2025-08-06": 41,
       "2025-03-24": 777,
       "2025-03-23": 1440,
-      "2025-03-22": 656,
-      "2025-03-21": 305
+      "2025-03-22": 656
     }
   },
   {
@@ -59,15 +57,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/assets.mstdn.uec.tokyo.ico",
     "slug": "mastodon-assets",
     "status": "up",
-    "uptime": "80.78%",
+    "uptime": "80.80%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "37.92%",
-    "uptimeMonth": "16.68%",
+    "uptimeWeek": "52.16%",
+    "uptimeMonth": "19.96%",
     "uptimeYear": "78.02%",
     "time": 856,
-    "timeDay": 1163,
-    "timeWeek": 938,
-    "timeMonth": 938,
+    "timeDay": 857,
+    "timeWeek": 921,
+    "timeMonth": 921,
     "timeYear": 860,
     "dailyMinutesDown": {
       "2026-03-17": 573,
@@ -167,10 +165,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.85%",
-    "time": 818,
-    "timeDay": 1065,
-    "timeWeek": 815,
-    "timeMonth": 793,
+    "time": 819,
+    "timeDay": 946,
+    "timeWeek": 839,
+    "timeMonth": 801,
     "timeYear": 832,
     "dailyMinutesDown": {
       "2025-11-06": 34,
