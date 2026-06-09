@@ -52,9 +52,9 @@
     "url": "https://assets.mstdn.uec.tokyo/mastodon/accounts/avatars/000/000/002/original/7c1c520de04c6952.png",
     "icon": "https://icons.duckduckgo.com/ip3/assets.mstdn.uec.tokyo.ico",
     "slug": "mastodon-assets",
-    "status": "up",
+    "status": "down",
     "uptime": "81.73%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "85.65%",
@@ -118,7 +118,8 @@
       "2026-02-15": 1440,
       "2026-02-14": 1440,
       "2026-02-13": 1440,
-      "2026-02-12": 737
+      "2026-02-12": 737,
+      "2026-06-09": 0
     }
   },
   {
