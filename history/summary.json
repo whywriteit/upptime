@@ -4,13 +4,13 @@
     "url": "https://blog.whywrite.it/",
     "icon": "https://icons.duckduckgo.com/ip3/blog.whywrite.it.ico",
     "slug": "blog",
-    "status": "up",
+    "status": "down",
     "uptime": "98.85%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.71%",
+    "uptimeDay": "99.30%",
+    "uptimeWeek": "99.90%",
+    "uptimeMonth": "99.68%",
     "uptimeYear": "99.94%",
-    "time": 1131,
+    "time": 1132,
     "timeDay": 1085,
     "timeWeek": 1135,
     "timeMonth": 1094,
@@ -21,7 +21,8 @@
       "2026-01-26": 29,
       "2026-03-23": 59,
       "2026-08-10": 18,
-      "2026-08-13": 111
+      "2026-08-13": 111,
+      "2026-08-23": 10
     }
   },
   {
@@ -29,11 +30,11 @@
     "url": "https://mstdn.uec.tokyo/about",
     "icon": "https://icons.duckduckgo.com/ip3/mstdn.uec.tokyo.ico",
     "slug": "mastodon",
-    "status": "up",
+    "status": "down",
     "uptime": "98.91%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.76%",
+    "uptimeDay": "99.63%",
+    "uptimeWeek": "99.95%",
+    "uptimeMonth": "99.75%",
     "uptimeYear": "99.95%",
     "time": 924,
     "timeDay": 997,
@@ -45,7 +46,8 @@
       "2025-11-06": 34,
       "2026-01-26": 29,
       "2026-03-23": 58,
-      "2026-08-13": 106
+      "2026-08-13": 106,
+      "2026-08-23": 5
     }
   },
   {
@@ -54,11 +56,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/assets.mstdn.uec.tokyo.ico",
     "slug": "mastodon-assets",
     "status": "down",
-    "uptime": "78.18%",
+    "uptime": "78.15%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "65.82%",
+    "uptimeYear": "65.67%",
     "time": 865,
     "timeDay": 0,
     "timeWeek": 0,
@@ -117,7 +119,7 @@
       "2026-02-14": 1440,
       "2026-02-13": 1440,
       "2026-02-12": 737,
-      "2026-08-23": 44,
+      "2026-08-23": 835,
       "2026-08-22": 1440,
       "2026-08-21": 1440,
       "2026-08-20": 1440,
@@ -200,13 +202,13 @@
     "url": "https://api.shokujin.jp/",
     "icon": "https://icons.duckduckgo.com/ip3/api.shokujin.jp.ico",
     "slug": "shokujinj-api",
-    "status": "up",
+    "status": "down",
     "uptime": "99.06%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.77%",
     "uptimeYear": "99.96%",
-    "time": 832,
+    "time": 833,
     "timeDay": 734,
     "timeWeek": 748,
     "timeMonth": 799,
@@ -215,7 +217,8 @@
       "2025-10-04": 38,
       "2025-11-06": 34,
       "2026-03-23": 58,
-      "2026-08-13": 101
+      "2026-08-13": 101,
+      "2026-08-23": 0
     }
   }
 ]
