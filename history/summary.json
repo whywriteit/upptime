@@ -59,11 +59,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/assets.mstdn.uec.tokyo.ico",
     "slug": "mastodon-assets",
     "status": "up",
-    "uptime": "78.38%",
+    "uptime": "78.39%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "63.43%",
+    "uptimeYear": "63.61%",
     "time": 869,
     "timeDay": 760,
     "timeWeek": 801,
@@ -212,9 +212,9 @@
     "url": "https://api.shokujin.jp/",
     "icon": "https://icons.duckduckgo.com/ip3/api.shokujin.jp.ico",
     "slug": "shokujinj-api",
-    "status": "up",
+    "status": "down",
     "uptime": "99.06%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.79%",
@@ -228,7 +228,8 @@
       "2026-03-23": 58,
       "2026-08-13": 101,
       "2026-09-03": 594,
-      "2026-09-02": 335
+      "2026-09-02": 335,
+      "2026-10-31": 0
     }
   }
 ]
